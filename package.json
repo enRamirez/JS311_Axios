@@ -1,0 +1,9 @@
+{
+    "name": "JS311_Axios",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "axios": "^1.4.0"
+    }
+}
